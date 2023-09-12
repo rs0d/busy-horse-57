@@ -28,8 +28,7 @@ export default function Home(props: PageProps<HomeProps>) {
           alt="the fresh logo: a sliced lemon dripping with juice"
         />
         <p class="my-6">
-          Welcome to `fresh`. Try updating this message in the
-          ./routes/index.tsx file, and refresh.
+          hello deno
         </p>
         <Counter start={props.data.start} />
       </div>
